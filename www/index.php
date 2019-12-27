@@ -12,7 +12,7 @@
 <body>
     <div class="container">
     <?php echo "<h1>Hi! I'm happy</h1>"; ?>
-
+    <div class="link"><a href="info.php">PHP INFO</a></div>
     <?php
 
     // Connexion et sélection de la base
